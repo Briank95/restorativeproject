@@ -1,0 +1,39 @@
+
+/* 
+Fonts:
+
+font-family: 'Alfa Slab One', cursive; / <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One" rel="stylesheet">
+
+font-family: 'Lato', sans-serif; / <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+
+Color:
+
+gray: 9b9b9b
+dark blue: 003c61
+light blue: 1DB5FF
+orange: fa4616
+tan: ed5715 #C2A95E
+dark gray: 4A4A4A
+black: 000000
+light gray: DED9C2
+
+
+
+*/
+
+.grid-container {
+    display: inline-grid;
+  }
+
+#header {
+  background-color: #C2A95E;
+  padding: 20px;
+  margin: 10px;
+}
+
+.col {
+  align: center;
+  padding: 20px;
+  margin: 10px;
+
+}
